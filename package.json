@@ -1,0 +1,15 @@
+{
+  "name": "asteroids_exercise",
+  "version": "1.0.0",
+  "description": "Verkefni í Asteroids",
+  "main": "main.js",
+  "scripts": {
+    "test": "\\n no test"
+  },
+  "keywords": [
+    "javascript",
+    "npm"
+  ],
+  "author": "Rafno",
+  "license": "UNLICENSED"
+}
